@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-08-05T23:43:22Z",
+  "problems": [
+    {
+      "difficulty": "Medium",
+      "folder": "0002-add-two-numbers",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers",
+      "languages": [
+        "C++"
+      ],
+      "last_modified": "2026-08-05T23:40:38Z",
+      "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
+      "name": "Add Two Numbers",
+      "number": 2,
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    }
+  ]
+}

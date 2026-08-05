@@ -1,0 +1,58 @@
+{
+  "cpp_count": 1,
+  "difficulty_distribution": [
+    {
+      "count": 0,
+      "difficulty": "Easy",
+      "percentage": 0.0
+    },
+    {
+      "count": 1,
+      "difficulty": "Medium",
+      "percentage": 100.0
+    },
+    {
+      "count": 0,
+      "difficulty": "Hard",
+      "percentage": 0.0
+    }
+  ],
+  "easy": 0,
+  "generated_at": "2026-08-05T23:43:22Z",
+  "hard": 0,
+  "language_distribution": [
+    {
+      "count": 0,
+      "language": "Python",
+      "percentage": 0.0
+    },
+    {
+      "count": 1,
+      "language": "C++",
+      "percentage": 100.0
+    },
+    {
+      "count": 0,
+      "language": "MySQL",
+      "percentage": 0.0
+    }
+  ],
+  "medium": 1,
+  "mysql_count": 0,
+  "python_count": 0,
+  "recently_solved": [
+    {
+      "folder": "0002-add-two-numbers",
+      "last_modified": "2026-08-05T23:40:38Z",
+      "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
+      "name": "Add Two Numbers",
+      "number": 2
+    }
+  ],
+  "topic_counts": {
+    "Linked List": 1,
+    "Math": 1,
+    "Recursion": 1
+  },
+  "total_solved": 1
+}

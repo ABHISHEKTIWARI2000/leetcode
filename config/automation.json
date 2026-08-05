@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "source_of_truth": "LeetHub V2",
+  "repository": {
+    "path": ".",
+    "url": "https://github.com/ABHISHEKTIWARI2000/leetcode"
+  },
+  "leetcode_username": "Odindevil",
+  "excluded_folders": [
+    ".git",
+    ".github",
+    "automation",
+    "config",
+    "data",
+    "docs",
+    "tests"
+  ],
+  "supported_languages": {
+    ".py": "Python",
+    ".cpp": "C++",
+    ".cc": "C++",
+    ".cxx": "C++",
+    ".sql": "MySQL"
+  },
+  "badges": {
+    "enabled": true,
+    "style": "flat-square",
+    "color": "f89f1b",
+    "label": "LeetCode",
+    "message": "Solutions"
+  },
+  "readme": {
+    "output_directory": "docs",
+    "dashboard_filename": "README.md",
+    "generated_header": "Automatically generated solution dashboard. LeetHub V2 remains the source of truth for all solution content."
+  },
+  "github_actions": {
+    "enabled": true,
+    "workflow_path": ".github/workflows/update.yml",
+    "branch": "master",
+    "schedule": "0 4 * * 0",
+    "auto_commit": true
+  },
+  "strict_validation": false
+}

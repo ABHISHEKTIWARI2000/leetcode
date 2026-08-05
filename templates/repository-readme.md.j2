@@ -1,0 +1,63 @@
+{% if project.banner_url %}
+<p align="center"><img src="{{ project.banner_url }}" alt="{{ project.title }} banner"></p>
+{% endif %}
+<h1 align="center">{{ project.title }}</h1>
+
+<p align="center">
+{% for badge in badges %}[<img src="{{ badge.image_url }}" alt="{{ badge.label }}">]({{ badge.target_url }}) {% endfor %}
+</p>
+
+## About
+
+{{ project.about }}
+
+- [Repository]({{ project.repository_url }})
+- [LeetCode profile]({{ project.leetcode_profile_url }})
+
+## Repository Statistics
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| {{ statistics.total_solved }} | {{ statistics.easy }} | {{ statistics.medium }} | {{ statistics.hard }} |
+
+## Difficulty Statistics
+
+| Difficulty | Solved | Share |
+| --- | ---: | ---: |
+{% for item in statistics.difficulty_distribution %}| {{ item.name }} | {{ item.count }} | {{ item.percentage }}% |
+{% endfor %}
+
+## Language Statistics
+
+| Language | Solved | Share |
+| --- | ---: | ---: |
+{% for item in statistics.language_distribution %}| {{ item.name }} | {{ item.count }} | {{ item.percentage }}% |
+{% endfor %}
+
+## Topic Statistics
+
+| Topic | Solved |
+| --- | ---: |
+{% for topic, count in statistics.topic_counts.items() %}| {{ topic }} | {{ count }} |
+{% endfor %}
+
+## Repository Structure
+
+| Path | Purpose |
+| --- | --- |
+{% for entry in repository_structure %}| `{{ entry.path }}` | {{ entry.description }} |
+{% endfor %}
+
+## Recently Solved Problems
+
+| # | Problem | Last Updated | LeetCode |
+| ---: | --- | --- | --- |
+{% for problem in recently_solved %}| {{ problem.number }} | {{ problem.name }} | {{ problem.last_modified }} | {% if problem.leetcode_link %}[Open]({{ problem.leetcode_link }}){% else %}—{% endif %} |
+{% endfor %}
+
+## Searchable Problem Table
+
+| # | Problem | Difficulty | Topics | Python | C++ | MySQL | GitHub Link | LeetCode Link | Last Updated |
+| ---: | --- | --- | --- | :---: | :---: | :---: | --- | --- | --- |
+{% for problem in problem_table %}| {{ problem.number }} | {{ problem.name }} | {{ problem.difficulty or "—" }} | {{ problem.topics | join(", ") or "—" }} | {% if problem.python %}✓{% else %}—{% endif %} | {% if problem.cpp %}✓{% else %}—{% endif %} | {% if problem.mysql %}✓{% else %}—{% endif %} | [Source]({{ problem.github_link }}) | {% if problem.leetcode_link %}[Open]({{ problem.leetcode_link }}){% else %}—{% endif %} | {{ problem.last_updated }} |
+{% endfor %}
