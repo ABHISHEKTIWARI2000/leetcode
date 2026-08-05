@@ -1,0 +1,36 @@
+name: Organize LeetCode Solutions
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Organizer
+        run: python scripts/organizer.py
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add .
+
+          git diff --cached --quiet || git commit -m "Auto organize LeetCode solutions"
+
+          git push

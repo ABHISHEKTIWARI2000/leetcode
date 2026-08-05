@@ -12,7 +12,7 @@ from pathlib import Path
 # Example (Windows):
 # REPO_PATH = r"C:\Users\Abhishek\Documents\leetcode-solutions"
 
-REPO_PATH = r"E:\leetcode"
+REPO_PATH = r"E:\leetcode\ leetcode-solutions"
 
 
 # ==========================================
