@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:43:22Z",
+  "generated_at": "2026-08-09T04:56:47Z",
   "problems": [
     {
       "difficulty": "Medium",
@@ -8,7 +8,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-05T23:40:38Z",
+      "last_modified": "2026-08-09T04:56:43Z",
       "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
       "name": "Add Two Numbers",
       "number": 2,
@@ -16,6 +16,21 @@
         "Linked List",
         "Math",
         "Recursion"
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "folder": "0007-reverse-integer",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0007-reverse-integer",
+      "languages": [
+        "C++"
+      ],
+      "last_modified": "2026-08-09T04:56:43Z",
+      "leetcode_link": "https://leetcode.com/problems/reverse-integer",
+      "name": "Reverse Integer",
+      "number": 7,
+      "topics": [
+        "Math"
       ]
     }
   ]

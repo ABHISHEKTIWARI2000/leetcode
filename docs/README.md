@@ -14,14 +14,14 @@ Automatically generated solution dashboard. LeetHub V2 remains the source of tru
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 0 | 1 | 0 |
+| 2 | 0 | 2 | 0 |
 
 ## Difficulty Statistics
 
 | Difficulty | Solved | Share |
 | --- | ---: | ---: |
 | Easy | 0 | 0.0% |
-| Medium | 1 | 100.0% |
+| Medium | 2 | 100.0% |
 | Hard | 0 | 0.0% |
 
 ## Language Statistics
@@ -29,7 +29,7 @@ Automatically generated solution dashboard. LeetHub V2 remains the source of tru
 | Language | Solved | Share |
 | --- | ---: | ---: |
 | Python | 0 | 0.0% |
-| C++ | 1 | 100.0% |
+| C++ | 2 | 100.0% |
 | MySQL | 0 | 0.0% |
 
 ## Topic Statistics
@@ -37,7 +37,7 @@ Automatically generated solution dashboard. LeetHub V2 remains the source of tru
 | Topic | Solved |
 | --- | ---: |
 | Linked List | 1 |
-| Math | 1 |
+| Math | 2 |
 | Recursion | 1 |
 
 ## Repository Structure
@@ -51,10 +51,12 @@ Automatically generated solution dashboard. LeetHub V2 remains the source of tru
 
 | # | Problem | Last Updated | LeetCode |
 | ---: | --- | --- | --- |
-| 2 | Add Two Numbers | 2026-08-05T23:40:38Z | [Open](https://leetcode.com/problems/add-two-numbers) |
+| 7 | Reverse Integer | 2026-08-09T04:56:43Z | [Open](https://leetcode.com/problems/reverse-integer) |
+| 2 | Add Two Numbers | 2026-08-09T04:56:43Z | [Open](https://leetcode.com/problems/add-two-numbers) |
 
 ## Searchable Problem Table
 
 | # | Problem | Difficulty | Topics | Python | C++ | MySQL | GitHub Link | LeetCode Link | Last Updated |
 | ---: | --- | --- | --- | :---: | :---: | :---: | --- | --- | --- |
-| 2 | Add Two Numbers | Medium | Linked List, Math, Recursion | — | ✓ | — | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Open](https://leetcode.com/problems/add-two-numbers) | 2026-08-05T23:40:38Z |
+| 2 | Add Two Numbers | Medium | Linked List, Math, Recursion | — | ✓ | — | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Open](https://leetcode.com/problems/add-two-numbers) | 2026-08-09T04:56:43Z |
+| 7 | Reverse Integer | Medium | Math | — | ✓ | — | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0007-reverse-integer) | [Open](https://leetcode.com/problems/reverse-integer) | 2026-08-09T04:56:43Z |
