@@ -5,14 +5,14 @@
 ## Statistics
 
 - **Solved at this difficulty:** 0
-- **Repository coverage:** 0.0% of 2 solved problems
+- **Repository coverage:** 0.0% of 3 solved problems
 
 ## Difficulty Distribution
 
 | Difficulty | Solved |
 | --- | --- |
 | Easy | 0 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
 ## Problem Table

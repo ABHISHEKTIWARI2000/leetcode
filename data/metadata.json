@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:56:47Z",
+  "generated_at": "2026-08-16T04:27:26Z",
   "problems": [
     {
       "difficulty": "Medium",
@@ -8,7 +8,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-09T04:56:43Z",
+      "last_modified": "2026-08-16T04:27:23Z",
       "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
       "name": "Add Two Numbers",
       "number": 2,
@@ -20,12 +20,29 @@
     },
     {
       "difficulty": "Medium",
+      "folder": "0003-longest-substring-without-repeating-characters",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-16T04:27:23Z",
+      "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "name": "Longest Substring Without Repeating Characters",
+      "number": 3,
+      "topics": [
+        "Hash Table",
+        "Sliding Window",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "Medium",
       "folder": "0007-reverse-integer",
       "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0007-reverse-integer",
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-09T04:56:43Z",
+      "last_modified": "2026-08-16T04:27:23Z",
       "leetcode_link": "https://leetcode.com/problems/reverse-integer",
       "name": "Reverse Integer",
       "number": 7,

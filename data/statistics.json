@@ -7,7 +7,7 @@
       "percentage": 0.0
     },
     {
-      "count": 2,
+      "count": 3,
       "difficulty": "Medium",
       "percentage": 100.0
     },
@@ -18,18 +18,18 @@
     }
   ],
   "easy": 0,
-  "generated_at": "2026-08-09T04:56:47Z",
+  "generated_at": "2026-08-16T04:27:26Z",
   "hard": 0,
   "language_distribution": [
     {
-      "count": 0,
+      "count": 1,
       "language": "Python",
-      "percentage": 0.0
+      "percentage": 33.33
     },
     {
       "count": 2,
       "language": "C++",
-      "percentage": 100.0
+      "percentage": 66.67
     },
     {
       "count": 0,
@@ -37,29 +37,39 @@
       "percentage": 0.0
     }
   ],
-  "medium": 2,
+  "medium": 3,
   "mysql_count": 0,
-  "python_count": 0,
+  "python_count": 1,
   "recently_solved": [
     {
       "folder": "0007-reverse-integer",
-      "last_modified": "2026-08-09T04:56:43Z",
+      "last_modified": "2026-08-16T04:27:23Z",
       "leetcode_link": "https://leetcode.com/problems/reverse-integer",
       "name": "Reverse Integer",
       "number": 7
     },
     {
+      "folder": "0003-longest-substring-without-repeating-characters",
+      "last_modified": "2026-08-16T04:27:23Z",
+      "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "name": "Longest Substring Without Repeating Characters",
+      "number": 3
+    },
+    {
       "folder": "0002-add-two-numbers",
-      "last_modified": "2026-08-09T04:56:43Z",
+      "last_modified": "2026-08-16T04:27:23Z",
       "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
       "name": "Add Two Numbers",
       "number": 2
     }
   ],
   "topic_counts": {
+    "Hash Table": 1,
     "Linked List": 1,
     "Math": 2,
-    "Recursion": 1
+    "Recursion": 1,
+    "Sliding Window": 1,
+    "String": 1
   },
-  "total_solved": 2
+  "total_solved": 3
 }
