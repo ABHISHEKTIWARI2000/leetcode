@@ -6,12 +6,10 @@ class Solution(object):
         :rtype: List[int]
         """
         i = 0
-        j = n
         res = []
-        while(i<n and j<2*n):
+        while(i<n):
             res.append(nums[i])
-            res.append(nums[j])
+            res.append(nums[i+n])
             i+=1
-            j+=1
         return res
         
