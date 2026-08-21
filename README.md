@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1470-shuffle-the-array](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
