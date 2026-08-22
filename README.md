@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) |
 | [0645-set-mismatch](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -60,4 +62,9 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
