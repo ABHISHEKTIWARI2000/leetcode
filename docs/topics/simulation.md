@@ -1,6 +1,6 @@
-# Recursion
+# Simulation
 
-> A curated index of solved problems tagged **Recursion**.
+> A curated index of solved problems tagged **Simulation**.
 
 ## Statistics
 
@@ -11,15 +11,15 @@
 
 | Difficulty | Solved |
 | --- | --- |
-| Easy | 0 |
-| Medium | 1 |
+| Easy | 1 |
+| Medium | 0 |
 | Hard | 0 |
 
 ## Problem Table
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-08-23T04:28:38Z |
+| 1929 | Concatenation of Array | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1929-concatenation-of-array) | [Problem](https://leetcode.com/problems/concatenation-of-array) | 2026-08-23T04:28:38Z |
 
 ## Links
 

@@ -2,34 +2,34 @@
   "cpp_count": 2,
   "difficulty_distribution": [
     {
-      "count": 0,
+      "count": 6,
       "difficulty": "Easy",
-      "percentage": 0.0
+      "percentage": 54.55
     },
     {
-      "count": 3,
+      "count": 4,
       "difficulty": "Medium",
-      "percentage": 100.0
+      "percentage": 36.36
     },
-    {
-      "count": 0,
-      "difficulty": "Hard",
-      "percentage": 0.0
-    }
-  ],
-  "easy": 0,
-  "generated_at": "2026-08-16T04:27:26Z",
-  "hard": 0,
-  "language_distribution": [
     {
       "count": 1,
+      "difficulty": "Hard",
+      "percentage": 9.09
+    }
+  ],
+  "easy": 6,
+  "generated_at": "2026-08-23T04:28:40Z",
+  "hard": 1,
+  "language_distribution": [
+    {
+      "count": 9,
       "language": "Python",
-      "percentage": 33.33
+      "percentage": 81.82
     },
     {
       "count": 2,
       "language": "C++",
-      "percentage": 66.67
+      "percentage": 18.18
     },
     {
       "count": 0,
@@ -37,39 +37,95 @@
       "percentage": 0.0
     }
   ],
-  "medium": 3,
+  "medium": 4,
   "mysql_count": 0,
-  "python_count": 1,
+  "python_count": 9,
   "recently_solved": [
     {
+      "folder": "1929-concatenation-of-array",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/concatenation-of-array",
+      "name": "Concatenation of Array",
+      "number": 1929
+    },
+    {
+      "folder": "1470-shuffle-the-array",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/shuffle-the-array",
+      "name": "Shuffle the Array",
+      "number": 1470
+    },
+    {
+      "folder": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+      "name": "How Many Numbers Are Smaller Than the Current Number",
+      "number": 1365
+    },
+    {
+      "folder": "0645-set-mismatch",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/set-mismatch",
+      "name": "Set Mismatch",
+      "number": 645
+    },
+    {
+      "folder": "0485-max-consecutive-ones",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/max-consecutive-ones",
+      "name": "Max Consecutive Ones",
+      "number": 485
+    },
+    {
+      "folder": "0448-find-all-numbers-disappeared-in-an-array",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+      "name": "Find All Numbers Disappeared in an Array",
+      "number": 448
+    },
+    {
+      "folder": "0209-minimum-size-subarray-sum",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+      "name": "Minimum Size Subarray Sum",
+      "number": 209
+    },
+    {
+      "folder": "0076-minimum-window-substring",
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/minimum-window-substring",
+      "name": "Minimum Window Substring",
+      "number": 76
+    },
+    {
       "folder": "0007-reverse-integer",
-      "last_modified": "2026-08-16T04:27:23Z",
+      "last_modified": "2026-08-23T04:28:38Z",
       "leetcode_link": "https://leetcode.com/problems/reverse-integer",
       "name": "Reverse Integer",
       "number": 7
     },
     {
       "folder": "0003-longest-substring-without-repeating-characters",
-      "last_modified": "2026-08-16T04:27:23Z",
+      "last_modified": "2026-08-23T04:28:38Z",
       "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
       "name": "Longest Substring Without Repeating Characters",
       "number": 3
-    },
-    {
-      "folder": "0002-add-two-numbers",
-      "last_modified": "2026-08-16T04:27:23Z",
-      "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
-      "name": "Add Two Numbers",
-      "number": 2
     }
   ],
   "topic_counts": {
-    "Hash Table": 1,
+    "Array": 7,
+    "Binary Search": 1,
+    "Bit Manipulation": 1,
+    "Counting Sort": 1,
+    "Hash Table": 5,
     "Linked List": 1,
     "Math": 2,
+    "Prefix Sum": 1,
     "Recursion": 1,
-    "Sliding Window": 1,
-    "String": 1
+    "Simulation": 1,
+    "Sliding Window": 3,
+    "Sorting": 2,
+    "String": 2
   },
-  "total_solved": 3
+  "total_solved": 11
 }

@@ -4,21 +4,22 @@
 
 ## Statistics
 
-- **Solved at this difficulty:** 0
-- **Repository coverage:** 0.0% of 3 solved problems
+- **Solved at this difficulty:** 1
+- **Repository coverage:** 9.09% of 11 solved problems
 
 ## Difficulty Distribution
 
 | Difficulty | Solved |
 | --- | --- |
-| Easy | 0 |
-| Medium | 3 |
-| Hard | 0 |
+| Easy | 6 |
+| Medium | 4 |
+| Hard | 1 |
 
 ## Problem Table
 
 | # | Problem | Topics | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
+| 76 | Minimum Window Substring | Hash Table, Sliding Window, String | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-08-23T04:28:38Z |
 
 ## Links
 

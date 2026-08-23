@@ -4,21 +4,27 @@
 
 ## Statistics
 
-- **Solved at this difficulty:** 0
-- **Repository coverage:** 0.0% of 3 solved problems
+- **Solved at this difficulty:** 6
+- **Repository coverage:** 54.55% of 11 solved problems
 
 ## Difficulty Distribution
 
 | Difficulty | Solved |
 | --- | --- |
-| Easy | 0 |
-| Medium | 3 |
-| Hard | 0 |
+| Easy | 6 |
+| Medium | 4 |
+| Hard | 1 |
 
 ## Problem Table
 
 | # | Problem | Topics | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
+| 448 | Find All Numbers Disappeared in an Array | Array, Hash Table | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) | [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | 2026-08-23T04:28:38Z |
+| 485 | Max Consecutive Ones | Array | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0485-max-consecutive-ones) | [Problem](https://leetcode.com/problems/max-consecutive-ones) | 2026-08-23T04:28:38Z |
+| 645 | Set Mismatch | Array, Bit Manipulation, Hash Table, Sorting | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) | [Problem](https://leetcode.com/problems/set-mismatch) | 2026-08-23T04:28:38Z |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Array, Counting Sort, Hash Table, Sorting | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 2026-08-23T04:28:38Z |
+| 1470 | Shuffle the Array | Array | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1470-shuffle-the-array) | [Problem](https://leetcode.com/problems/shuffle-the-array) | 2026-08-23T04:28:38Z |
+| 1929 | Concatenation of Array | Array, Simulation | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1929-concatenation-of-array) | [Problem](https://leetcode.com/problems/concatenation-of-array) | 2026-08-23T04:28:38Z |
 
 ## Links
 

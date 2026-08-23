@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:27:26Z",
+  "generated_at": "2026-08-23T04:28:40Z",
   "problems": [
     {
       "difficulty": "Medium",
@@ -8,7 +8,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-16T04:27:23Z",
+      "last_modified": "2026-08-23T04:28:38Z",
       "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
       "name": "Add Two Numbers",
       "number": 2,
@@ -25,7 +25,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-16T04:27:23Z",
+      "last_modified": "2026-08-23T04:28:38Z",
       "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
       "name": "Longest Substring Without Repeating Characters",
       "number": 3,
@@ -42,12 +42,145 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-16T04:27:23Z",
+      "last_modified": "2026-08-23T04:28:38Z",
       "leetcode_link": "https://leetcode.com/problems/reverse-integer",
       "name": "Reverse Integer",
       "number": 7,
       "topics": [
         "Math"
+      ]
+    },
+    {
+      "difficulty": "Hard",
+      "folder": "0076-minimum-window-substring",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/minimum-window-substring",
+      "name": "Minimum Window Substring",
+      "number": 76,
+      "topics": [
+        "Hash Table",
+        "Sliding Window",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "folder": "0209-minimum-size-subarray-sum",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+      "name": "Minimum Size Subarray Sum",
+      "number": 209,
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Prefix Sum",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "folder": "0448-find-all-numbers-disappeared-in-an-array",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+      "name": "Find All Numbers Disappeared in an Array",
+      "number": 448,
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "folder": "0485-max-consecutive-ones",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0485-max-consecutive-ones",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/max-consecutive-ones",
+      "name": "Max Consecutive Ones",
+      "number": 485,
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "folder": "0645-set-mismatch",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/set-mismatch",
+      "name": "Set Mismatch",
+      "number": 645,
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Hash Table",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "folder": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+      "name": "How Many Numbers Are Smaller Than the Current Number",
+      "number": 1365,
+      "topics": [
+        "Array",
+        "Counting Sort",
+        "Hash Table",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "folder": "1470-shuffle-the-array",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1470-shuffle-the-array",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/shuffle-the-array",
+      "name": "Shuffle the Array",
+      "number": 1470,
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "folder": "1929-concatenation-of-array",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1929-concatenation-of-array",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-23T04:28:38Z",
+      "leetcode_link": "https://leetcode.com/problems/concatenation-of-array",
+      "name": "Concatenation of Array",
+      "number": 1929,
+      "topics": [
+        "Array",
+        "Simulation"
       ]
     }
   ]

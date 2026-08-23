@@ -1,6 +1,6 @@
-# Recursion
+# Prefix Sum
 
-> A curated index of solved problems tagged **Recursion**.
+> A curated index of solved problems tagged **Prefix Sum**.
 
 ## Statistics
 
@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-08-23T04:28:38Z |
+| 209 | Minimum Size Subarray Sum | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum) | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | 2026-08-23T04:28:38Z |
 
 ## Links
 
