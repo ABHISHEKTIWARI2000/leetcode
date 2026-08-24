@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -77,5 +79,6 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
