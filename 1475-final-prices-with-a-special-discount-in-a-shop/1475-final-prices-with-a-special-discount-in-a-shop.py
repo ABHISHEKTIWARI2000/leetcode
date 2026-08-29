@@ -1,18 +1,17 @@
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
+        n = len(prices)
         answer = prices[:]
-        stack = []  # This will truly behave as a monotonic stack
-        
-        for i in range(len(prices) - 1, -1, -1):
-            # Maintain the monotonic property: pop elements greater than current price
-            while stack and stack[-1] > prices[i]:
-                stack.pop()
-            
-            # If stack is not empty, the top element is our discount
-            if stack:
-                answer[i] = prices[i] - stack[-1]
-                
-            # Push the current price onto the stack
-            stack.append(prices[i])
-            
+        monostack = [prices[n-1]]
+        answer[n-1] = prices[n-1]
+        for i in range(n-2,-1,-1):
+            for j in range(len(monostack)-1,-1,-1):
+                if(prices[i] >= monostack[j]):
+                    # print(f"{i} -> j = {j} {prices[i]} - {monostack[j]} ")
+                    answer[i] = prices[i] - monostack[j]
+                    # print(prices[i])
+                    break
+            monostack.append(prices[i])
+            # print(monostack)
+
         return answer
