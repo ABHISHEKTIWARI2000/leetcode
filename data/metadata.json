@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T04:28:40Z",
+  "generated_at": "2026-08-30T09:36:36Z",
   "problems": [
     {
       "difficulty": "Medium",
@@ -8,7 +8,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
       "name": "Add Two Numbers",
       "number": 2,
@@ -25,7 +25,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
       "name": "Longest Substring Without Repeating Characters",
       "number": 3,
@@ -42,7 +42,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/reverse-integer",
       "name": "Reverse Integer",
       "number": 7,
@@ -57,7 +57,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/minimum-window-substring",
       "name": "Minimum Window Substring",
       "number": 76,
@@ -69,12 +69,29 @@
     },
     {
       "difficulty": "Medium",
+      "folder": "0150-evaluate-reverse-polish-notation",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0150-evaluate-reverse-polish-notation",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-30T09:36:32Z",
+      "leetcode_link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "name": "Evaluate Reverse Polish Notation",
+      "number": 150,
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "Medium",
       "folder": "0209-minimum-size-subarray-sum",
       "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum",
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/minimum-size-subarray-sum",
       "name": "Minimum Size Subarray Sum",
       "number": 209,
@@ -86,13 +103,30 @@
       ]
     },
     {
+      "difficulty": "Medium",
+      "folder": "0424-longest-repeating-character-replacement",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0424-longest-repeating-character-replacement",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-30T09:36:32Z",
+      "leetcode_link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "name": "Longest Repeating Character Replacement",
+      "number": 424,
+      "topics": [
+        "Hash Table",
+        "Sliding Window",
+        "String"
+      ]
+    },
+    {
       "difficulty": "Easy",
       "folder": "0448-find-all-numbers-disappeared-in-an-array",
       "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array",
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
       "name": "Find All Numbers Disappeared in an Array",
       "number": 448,
@@ -108,12 +142,28 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/max-consecutive-ones",
       "name": "Max Consecutive Ones",
       "number": 485,
       "topics": [
         "Array"
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "folder": "0636-exclusive-time-of-functions",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0636-exclusive-time-of-functions",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-30T09:36:32Z",
+      "leetcode_link": "https://leetcode.com/problems/exclusive-time-of-functions",
+      "name": "Exclusive Time of Functions",
+      "number": 636,
+      "topics": [
+        "Array",
+        "Stack"
       ]
     },
     {
@@ -123,7 +173,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/set-mismatch",
       "name": "Set Mismatch",
       "number": 645,
@@ -141,7 +191,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
       "name": "How Many Numbers Are Smaller Than the Current Number",
       "number": 1365,
@@ -153,13 +203,30 @@
       ]
     },
     {
+      "difficulty": "Medium",
+      "folder": "1441-build-an-array-with-stack-operations",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1441-build-an-array-with-stack-operations",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-30T09:36:32Z",
+      "leetcode_link": "https://leetcode.com/problems/build-an-array-with-stack-operations",
+      "name": "Build an Array With Stack Operations",
+      "number": 1441,
+      "topics": [
+        "Array",
+        "Simulation",
+        "Stack"
+      ]
+    },
+    {
       "difficulty": "Easy",
       "folder": "1470-shuffle-the-array",
       "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1470-shuffle-the-array",
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/shuffle-the-array",
       "name": "Shuffle the Array",
       "number": 1470,
@@ -169,12 +236,29 @@
     },
     {
       "difficulty": "Easy",
+      "folder": "1475-final-prices-with-a-special-discount-in-a-shop",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-08-30T09:36:32Z",
+      "leetcode_link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+      "name": "Final Prices With a Special Discount in a Shop",
+      "number": 1475,
+      "topics": [
+        "Array",
+        "Monotonic Stack",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "Easy",
       "folder": "1929-concatenation-of-array",
       "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1929-concatenation-of-array",
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-23T04:28:38Z",
+      "last_modified": "2026-08-30T09:36:32Z",
       "leetcode_link": "https://leetcode.com/problems/concatenation-of-array",
       "name": "Concatenation of Array",
       "number": 1929,
