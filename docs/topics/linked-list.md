@@ -5,7 +5,7 @@
 ## Statistics
 
 - **Solved in this topic:** 1
-- **Repository coverage:** 6.25% of 16 solved problems
+- **Repository coverage:** 5.26% of 19 solved problems
 
 ## Difficulty Distribution
 
@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-08-30T09:36:32Z |
+| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-09-06T08:14:21Z |
 
 ## Links
 

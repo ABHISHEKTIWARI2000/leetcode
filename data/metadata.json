@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:36:36Z",
+  "generated_at": "2026-09-06T08:14:23Z",
   "problems": [
     {
       "difficulty": "Medium",
@@ -8,7 +8,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
       "name": "Add Two Numbers",
       "number": 2,
@@ -25,7 +25,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
       "name": "Longest Substring Without Repeating Characters",
       "number": 3,
@@ -42,7 +42,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/reverse-integer",
       "name": "Reverse Integer",
       "number": 7,
@@ -57,7 +57,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/minimum-window-substring",
       "name": "Minimum Window Substring",
       "number": 76,
@@ -68,13 +68,31 @@
       ]
     },
     {
+      "difficulty": "Hard",
+      "folder": "0084-largest-rectangle-in-histogram",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0084-largest-rectangle-in-histogram",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-09-06T08:14:21Z",
+      "leetcode_link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "name": "Largest Rectangle in Histogram",
+      "number": 84,
+      "topics": [
+        "Array",
+        "Monotonic Stack",
+        "Range Minimum/Maximum Query",
+        "Stack"
+      ]
+    },
+    {
       "difficulty": "Medium",
       "folder": "0150-evaluate-reverse-polish-notation",
       "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0150-evaluate-reverse-polish-notation",
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
       "name": "Evaluate Reverse Polish Notation",
       "number": 150,
@@ -91,7 +109,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/minimum-size-subarray-sum",
       "name": "Minimum Size Subarray Sum",
       "number": 209,
@@ -109,7 +127,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/longest-repeating-character-replacement",
       "name": "Longest Repeating Character Replacement",
       "number": 424,
@@ -126,7 +144,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
       "name": "Find All Numbers Disappeared in an Array",
       "number": 448,
@@ -142,7 +160,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/max-consecutive-ones",
       "name": "Max Consecutive Ones",
       "number": 485,
@@ -157,7 +175,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/exclusive-time-of-functions",
       "name": "Exclusive Time of Functions",
       "number": 636,
@@ -173,7 +191,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/set-mismatch",
       "name": "Set Mismatch",
       "number": 645,
@@ -185,13 +203,30 @@
       ]
     },
     {
+      "difficulty": "Medium",
+      "folder": "0739-daily-temperatures",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0739-daily-temperatures",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-09-06T08:14:21Z",
+      "leetcode_link": "https://leetcode.com/problems/daily-temperatures",
+      "name": "Daily Temperatures",
+      "number": 739,
+      "topics": [
+        "Array",
+        "Monotonic Stack",
+        "Stack"
+      ]
+    },
+    {
       "difficulty": "Easy",
       "folder": "1365-how-many-numbers-are-smaller-than-the-current-number",
       "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number",
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
       "name": "How Many Numbers Are Smaller Than the Current Number",
       "number": 1365,
@@ -209,7 +244,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/build-an-array-with-stack-operations",
       "name": "Build an Array With Stack Operations",
       "number": 1441,
@@ -226,7 +261,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/shuffle-the-array",
       "name": "Shuffle the Array",
       "number": 1470,
@@ -241,7 +276,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
       "name": "Final Prices With a Special Discount in a Shop",
       "number": 1475,
@@ -258,12 +293,29 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-08-30T09:36:32Z",
+      "last_modified": "2026-09-06T08:14:21Z",
       "leetcode_link": "https://leetcode.com/problems/concatenation-of-array",
       "name": "Concatenation of Array",
       "number": 1929,
       "topics": [
         "Array",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "folder": "2073-time-needed-to-buy-tickets",
+      "github_link": "https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets",
+      "languages": [
+        "Python"
+      ],
+      "last_modified": "2026-09-06T08:14:21Z",
+      "leetcode_link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+      "name": "Time Needed to Buy Tickets",
+      "number": 2073,
+      "topics": [
+        "Array",
+        "Queue",
         "Simulation"
       ]
     }

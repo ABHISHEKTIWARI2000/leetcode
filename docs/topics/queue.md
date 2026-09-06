@@ -1,6 +1,6 @@
-# Counting Sort
+# Queue
 
-> A curated index of solved problems tagged **Counting Sort**.
+> A curated index of solved problems tagged **Queue**.
 
 ## Statistics
 
@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 2026-09-06T08:14:21Z |
+| 2073 | Time Needed to Buy Tickets | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets) | [Problem](https://leetcode.com/problems/time-needed-to-buy-tickets) | 2026-09-06T08:14:21Z |
 
 ## Links
 
