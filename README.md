@@ -105,4 +105,8 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
