@@ -19,12 +19,12 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Longest Substring Without Repeating Characters | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters) | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2026-09-13T08:39:22Z |
-| 76 | Minimum Window Substring | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-09-13T08:39:22Z |
-| 424 | Longest Repeating Character Replacement | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0424-longest-repeating-character-replacement) | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement) | 2026-09-13T08:39:22Z |
-| 448 | Find All Numbers Disappeared in an Array | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) | [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | 2026-09-13T08:39:22Z |
-| 645 | Set Mismatch | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) | [Problem](https://leetcode.com/problems/set-mismatch) | 2026-09-13T08:39:22Z |
-| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 2026-09-13T08:39:22Z |
+| 3 | Longest Substring Without Repeating Characters | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters) | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2026-09-20T08:56:16Z |
+| 76 | Minimum Window Substring | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-09-20T08:56:16Z |
+| 424 | Longest Repeating Character Replacement | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0424-longest-repeating-character-replacement) | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement) | 2026-09-20T08:56:16Z |
+| 448 | Find All Numbers Disappeared in an Array | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) | [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | 2026-09-20T08:56:16Z |
+| 645 | Set Mismatch | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) | [Problem](https://leetcode.com/problems/set-mismatch) | 2026-09-20T08:56:16Z |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 2026-09-20T08:56:16Z |
 
 ## Links
 
