@@ -18,7 +18,7 @@
     }
   ],
   "easy": 13,
-  "generated_at": "2026-09-20T08:56:19Z",
+  "generated_at": "2026-09-27T09:40:59Z",
   "hard": 2,
   "language_distribution": [
     {
@@ -43,70 +43,70 @@
   "recently_solved": [
     {
       "folder": "2073-time-needed-to-buy-tickets",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
       "name": "Time Needed to Buy Tickets",
       "number": 2073
     },
     {
       "folder": "1929-concatenation-of-array",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/concatenation-of-array",
       "name": "Concatenation of Array",
       "number": 1929
     },
     {
       "folder": "1475-final-prices-with-a-special-discount-in-a-shop",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
       "name": "Final Prices With a Special Discount in a Shop",
       "number": 1475
     },
     {
       "folder": "1470-shuffle-the-array",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/shuffle-the-array",
       "name": "Shuffle the Array",
       "number": 1470
     },
     {
       "folder": "1441-build-an-array-with-stack-operations",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/build-an-array-with-stack-operations",
       "name": "Build an Array With Stack Operations",
       "number": 1441
     },
     {
       "folder": "1365-how-many-numbers-are-smaller-than-the-current-number",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
       "name": "How Many Numbers Are Smaller Than the Current Number",
       "number": 1365
     },
     {
       "folder": "1193-monthly-transactions-i",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/monthly-transactions-i",
       "name": "Monthly Transactions I",
       "number": 1193
     },
     {
       "folder": "0739-daily-temperatures",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/daily-temperatures",
       "name": "Daily Temperatures",
       "number": 739
     },
     {
       "folder": "0645-set-mismatch",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/set-mismatch",
       "name": "Set Mismatch",
       "number": 645
     },
     {
       "folder": "0636-exclusive-time-of-functions",
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/exclusive-time-of-functions",
       "name": "Exclusive Time of Functions",
       "number": 636

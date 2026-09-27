@@ -19,9 +19,9 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Longest Substring Without Repeating Characters | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters) | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2026-09-20T08:56:16Z |
-| 76 | Minimum Window Substring | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-09-20T08:56:16Z |
-| 424 | Longest Repeating Character Replacement | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0424-longest-repeating-character-replacement) | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement) | 2026-09-20T08:56:16Z |
+| 3 | Longest Substring Without Repeating Characters | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters) | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2026-09-27T09:40:57Z |
+| 76 | Minimum Window Substring | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-09-27T09:40:57Z |
+| 424 | Longest Repeating Character Replacement | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0424-longest-repeating-character-replacement) | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement) | 2026-09-27T09:40:57Z |
 
 ## Links
 

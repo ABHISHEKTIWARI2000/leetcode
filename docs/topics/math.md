@@ -19,9 +19,9 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-09-20T08:56:16Z |
-| 7 | Reverse Integer | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0007-reverse-integer) | [Problem](https://leetcode.com/problems/reverse-integer) | 2026-09-20T08:56:16Z |
-| 150 | Evaluate Reverse Polish Notation | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0150-evaluate-reverse-polish-notation) | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation) | 2026-09-20T08:56:16Z |
+| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-09-27T09:40:57Z |
+| 7 | Reverse Integer | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0007-reverse-integer) | [Problem](https://leetcode.com/problems/reverse-integer) | 2026-09-27T09:40:57Z |
+| 150 | Evaluate Reverse Polish Notation | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0150-evaluate-reverse-polish-notation) | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation) | 2026-09-27T09:40:57Z |
 
 ## Links
 

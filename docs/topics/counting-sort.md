@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 2026-09-20T08:56:16Z |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 2026-09-27T09:40:57Z |
 
 ## Links
 

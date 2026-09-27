@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T08:56:19Z",
+  "generated_at": "2026-09-27T09:40:59Z",
   "problems": [
     {
       "difficulty": "Medium",
@@ -8,7 +8,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/add-two-numbers",
       "name": "Add Two Numbers",
       "number": 2,
@@ -25,7 +25,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
       "name": "Longest Substring Without Repeating Characters",
       "number": 3,
@@ -42,7 +42,7 @@
       "languages": [
         "C++"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/reverse-integer",
       "name": "Reverse Integer",
       "number": 7,
@@ -57,7 +57,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/minimum-window-substring",
       "name": "Minimum Window Substring",
       "number": 76,
@@ -74,7 +74,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
       "name": "Largest Rectangle in Histogram",
       "number": 84,
@@ -92,7 +92,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
       "name": "Evaluate Reverse Polish Notation",
       "number": 150,
@@ -109,7 +109,7 @@
       "languages": [
         "MySQL"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/employees-earning-more-than-their-managers/description/?envType=problem-list-v2&envId=db-db1-sql-i",
       "name": "Combine Two Tables",
       "number": 175,
@@ -124,7 +124,7 @@
       "languages": [
         "MySQL"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
       "name": "Employees Earning More Than Their Managers",
       "number": 181,
@@ -139,7 +139,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/minimum-size-subarray-sum",
       "name": "Minimum Size Subarray Sum",
       "number": 209,
@@ -157,7 +157,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/longest-repeating-character-replacement",
       "name": "Longest Repeating Character Replacement",
       "number": 424,
@@ -174,7 +174,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
       "name": "Find All Numbers Disappeared in an Array",
       "number": 448,
@@ -190,7 +190,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/max-consecutive-ones",
       "name": "Max Consecutive Ones",
       "number": 485,
@@ -205,7 +205,7 @@
       "languages": [
         "MySQL"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders",
       "name": "Customer Placing the Largest Number of Orders",
       "number": 586,
@@ -220,7 +220,7 @@
       "languages": [
         "MySQL"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/classes-with-at-least-5-students",
       "name": "Classes With at Least 5 Students",
       "number": 596,
@@ -235,7 +235,7 @@
       "languages": [
         "MySQL"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/not-boring-movies",
       "name": "Not Boring Movies",
       "number": 620,
@@ -250,7 +250,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/exclusive-time-of-functions",
       "name": "Exclusive Time of Functions",
       "number": 636,
@@ -266,7 +266,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/set-mismatch",
       "name": "Set Mismatch",
       "number": 645,
@@ -284,7 +284,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/daily-temperatures",
       "name": "Daily Temperatures",
       "number": 739,
@@ -301,7 +301,7 @@
       "languages": [
         "MySQL"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/monthly-transactions-i",
       "name": "Monthly Transactions I",
       "number": 1193,
@@ -316,7 +316,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
       "name": "How Many Numbers Are Smaller Than the Current Number",
       "number": 1365,
@@ -334,7 +334,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/build-an-array-with-stack-operations",
       "name": "Build an Array With Stack Operations",
       "number": 1441,
@@ -351,7 +351,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/shuffle-the-array",
       "name": "Shuffle the Array",
       "number": 1470,
@@ -366,7 +366,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
       "name": "Final Prices With a Special Discount in a Shop",
       "number": 1475,
@@ -383,7 +383,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/concatenation-of-array",
       "name": "Concatenation of Array",
       "number": 1929,
@@ -399,7 +399,7 @@
       "languages": [
         "Python"
       ],
-      "last_modified": "2026-09-20T08:56:16Z",
+      "last_modified": "2026-09-27T09:40:57Z",
       "leetcode_link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
       "name": "Time Needed to Buy Tickets",
       "number": 2073,

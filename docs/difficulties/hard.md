@@ -19,8 +19,8 @@
 
 | # | Problem | Topics | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 76 | Minimum Window Substring | Hash Table, Sliding Window, String | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-09-20T08:56:16Z |
-| 84 | Largest Rectangle in Histogram | Array, Monotonic Stack, Range Minimum/Maximum Query, Stack | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0084-largest-rectangle-in-histogram) | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram) | 2026-09-20T08:56:16Z |
+| 76 | Minimum Window Substring | Hash Table, Sliding Window, String | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-09-27T09:40:57Z |
+| 84 | Largest Rectangle in Histogram | Array, Monotonic Stack, Range Minimum/Maximum Query, Stack | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0084-largest-rectangle-in-histogram) | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram) | 2026-09-27T09:40:57Z |
 
 ## Links
 
