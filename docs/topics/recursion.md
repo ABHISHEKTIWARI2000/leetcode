@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-09-27T09:40:57Z |
+| 2 | Add Two Numbers | Medium | C++ | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0002-add-two-numbers) | [Problem](https://leetcode.com/problems/add-two-numbers) | 2026-10-04T10:19:23Z |
 
 ## Links
 

@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 209 | Minimum Size Subarray Sum | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum) | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | 2026-09-27T09:40:57Z |
+| 209 | Minimum Size Subarray Sum | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0209-minimum-size-subarray-sum) | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum) | 2026-10-04T10:19:23Z |
 
 ## Links
 
