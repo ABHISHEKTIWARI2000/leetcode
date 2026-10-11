@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 645 | Set Mismatch | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) | [Problem](https://leetcode.com/problems/set-mismatch) | 2026-10-04T10:19:23Z |
+| 645 | Set Mismatch | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0645-set-mismatch) | [Problem](https://leetcode.com/problems/set-mismatch) | 2026-10-11T10:27:41Z |
 
 ## Links
 
