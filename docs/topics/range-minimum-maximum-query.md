@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 84 | Largest Rectangle in Histogram | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0084-largest-rectangle-in-histogram) | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram) | 2026-10-11T10:27:41Z |
+| 84 | Largest Rectangle in Histogram | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0084-largest-rectangle-in-histogram) | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram) | 2026-10-18T08:26:38Z |
 
 ## Links
 
