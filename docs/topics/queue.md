@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2073 | Time Needed to Buy Tickets | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets) | [Problem](https://leetcode.com/problems/time-needed-to-buy-tickets) | 2026-10-18T08:26:38Z |
+| 2073 | Time Needed to Buy Tickets | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets) | [Problem](https://leetcode.com/problems/time-needed-to-buy-tickets) | 2026-10-25T08:50:36Z |
 
 ## Links
 
