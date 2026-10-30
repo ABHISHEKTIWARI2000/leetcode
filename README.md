@@ -57,6 +57,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +121,9 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0997-find-the-town-judge) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
