@@ -121,9 +121,22 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
