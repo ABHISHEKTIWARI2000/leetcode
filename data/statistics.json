@@ -2,125 +2,127 @@
   "cpp_count": 2,
   "difficulty_distribution": [
     {
-      "count": 13,
+      "count": 15,
       "difficulty": "Easy",
-      "percentage": 52.0
+      "percentage": 55.56
     },
     {
       "count": 10,
       "difficulty": "Medium",
-      "percentage": 40.0
+      "percentage": 37.04
     },
     {
       "count": 2,
       "difficulty": "Hard",
-      "percentage": 8.0
+      "percentage": 7.41
     }
   ],
-  "easy": 13,
-  "generated_at": "2026-10-25T08:50:39Z",
+  "easy": 15,
+  "generated_at": "2026-11-01T10:55:25Z",
   "hard": 2,
   "language_distribution": [
     {
-      "count": 17,
+      "count": 19,
       "language": "Python",
-      "percentage": 68.0
+      "percentage": 70.37
     },
     {
       "count": 2,
       "language": "C++",
-      "percentage": 8.0
+      "percentage": 7.41
     },
     {
       "count": 6,
       "language": "MySQL",
-      "percentage": 24.0
+      "percentage": 22.22
     }
   ],
   "medium": 10,
   "mysql_count": 6,
-  "python_count": 17,
+  "python_count": 19,
   "recently_solved": [
     {
+      "folder": "3898-find-the-degree-of-each-vertex",
+      "last_modified": "2026-11-01T10:55:23Z",
+      "leetcode_link": "https://leetcode.com/problems/find-the-degree-of-each-vertex",
+      "name": "Find the Degree of Each Vertex",
+      "number": 3898
+    },
+    {
       "folder": "2073-time-needed-to-buy-tickets",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
       "name": "Time Needed to Buy Tickets",
       "number": 2073
     },
     {
       "folder": "1929-concatenation-of-array",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/concatenation-of-array",
       "name": "Concatenation of Array",
       "number": 1929
     },
     {
       "folder": "1475-final-prices-with-a-special-discount-in-a-shop",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
       "name": "Final Prices With a Special Discount in a Shop",
       "number": 1475
     },
     {
       "folder": "1470-shuffle-the-array",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/shuffle-the-array",
       "name": "Shuffle the Array",
       "number": 1470
     },
     {
       "folder": "1441-build-an-array-with-stack-operations",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/build-an-array-with-stack-operations",
       "name": "Build an Array With Stack Operations",
       "number": 1441
     },
     {
       "folder": "1365-how-many-numbers-are-smaller-than-the-current-number",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
       "name": "How Many Numbers Are Smaller Than the Current Number",
       "number": 1365
     },
     {
       "folder": "1193-monthly-transactions-i",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/monthly-transactions-i",
       "name": "Monthly Transactions I",
       "number": 1193
     },
     {
+      "folder": "0997-find-the-town-judge",
+      "last_modified": "2026-11-01T10:55:23Z",
+      "leetcode_link": "https://leetcode.com/problems/find-the-town-judge",
+      "name": "Find the Town Judge",
+      "number": 997
+    },
+    {
       "folder": "0739-daily-temperatures",
-      "last_modified": "2026-10-25T08:50:36Z",
+      "last_modified": "2026-11-01T10:55:23Z",
       "leetcode_link": "https://leetcode.com/problems/daily-temperatures",
       "name": "Daily Temperatures",
       "number": 739
-    },
-    {
-      "folder": "0645-set-mismatch",
-      "last_modified": "2026-10-25T08:50:36Z",
-      "leetcode_link": "https://leetcode.com/problems/set-mismatch",
-      "name": "Set Mismatch",
-      "number": 645
-    },
-    {
-      "folder": "0636-exclusive-time-of-functions",
-      "last_modified": "2026-10-25T08:50:36Z",
-      "leetcode_link": "https://leetcode.com/problems/exclusive-time-of-functions",
-      "name": "Exclusive Time of Functions",
-      "number": 636
     }
   ],
   "topic_counts": {
-    "Array": 14,
+    "Array": 16,
     "Binary Search": 1,
     "Bit Manipulation": 1,
     "Counting Sort": 1,
     "Database": 6,
-    "Hash Table": 6,
+    "Graph Theory": 2,
+    "Hash Table": 7,
     "Linked List": 1,
     "Math": 3,
+    "Matrix": 1,
     "Monotonic Stack": 3,
     "Prefix Sum": 1,
     "Queue": 1,
@@ -132,5 +134,5 @@
     "Stack": 6,
     "String": 3
   },
-  "total_solved": 25
+  "total_solved": 27
 }

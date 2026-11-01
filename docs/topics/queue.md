@@ -5,7 +5,7 @@
 ## Statistics
 
 - **Solved in this topic:** 1
-- **Repository coverage:** 4.0% of 25 solved problems
+- **Repository coverage:** 3.7% of 27 solved problems
 
 ## Difficulty Distribution
 
@@ -19,7 +19,7 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2073 | Time Needed to Buy Tickets | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets) | [Problem](https://leetcode.com/problems/time-needed-to-buy-tickets) | 2026-10-25T08:50:36Z |
+| 2073 | Time Needed to Buy Tickets | Easy | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/2073-time-needed-to-buy-tickets) | [Problem](https://leetcode.com/problems/time-needed-to-buy-tickets) | 2026-11-01T10:55:23Z |
 
 ## Links
 

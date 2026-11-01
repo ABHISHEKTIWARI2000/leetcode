@@ -5,7 +5,7 @@
 ## Statistics
 
 - **Solved in this topic:** 3
-- **Repository coverage:** 12.0% of 25 solved problems
+- **Repository coverage:** 11.11% of 27 solved problems
 
 ## Difficulty Distribution
 
@@ -19,9 +19,9 @@
 
 | # | Problem | Difficulty | Languages | GitHub | LeetCode | Last Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| 3 | Longest Substring Without Repeating Characters | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters) | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2026-10-25T08:50:36Z |
-| 76 | Minimum Window Substring | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-10-25T08:50:36Z |
-| 424 | Longest Repeating Character Replacement | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0424-longest-repeating-character-replacement) | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement) | 2026-10-25T08:50:36Z |
+| 3 | Longest Substring Without Repeating Characters | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0003-longest-substring-without-repeating-characters) | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2026-11-01T10:55:23Z |
+| 76 | Minimum Window Substring | Hard | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0076-minimum-window-substring) | [Problem](https://leetcode.com/problems/minimum-window-substring) | 2026-11-01T10:55:23Z |
+| 424 | Longest Repeating Character Replacement | Medium | Python | [Source](https://github.com/ABHISHEKTIWARI2000/leetcode/tree/master/0424-longest-repeating-character-replacement) | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement) | 2026-11-01T10:55:23Z |
 
 ## Links
 
